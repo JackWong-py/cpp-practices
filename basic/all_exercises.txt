@@ -1,0 +1,102 @@
+That’s a great book to start with! Since you’re in **Part 1** (basics, user interaction, and variables), I’ll design a set of **20 practice problems** (with difficulty levels) plus **1 mini-project**.
+
+We’ll focus on:
+
+* Input & output
+* Using variables
+* Arithmetic
+* Basic conditional logic (light intro, since it helps with realistic problems)
+
+---
+
+## 🟢 Normal (10 tasks, ~50%)
+
+1. **Hello User**
+   Write a program that asks for the user’s name and then greets them.
+   Example: `Hello, Sarah!`
+
+2. **Simple Addition**
+   Ask the user for two numbers and print their sum.
+
+3. **Age in Months**
+   Ask the user for their age in years and calculate their age in months.
+
+4. **Temperature Conversion**
+   Convert Celsius to Fahrenheit. Formula: `F = C * 9/5 + 32`.
+
+5. **Simple Multiplication**
+   Ask for two integers and print their product.
+
+6. **Area of a Rectangle**
+   Input length and width, output area.
+
+7. **Perimeter of a Circle**
+   Input radius, output circumference using `2 * 3.14159 * radius`.
+
+8. **Average of Three Numbers**
+   Input three numbers, print their average.
+
+9. **Double It**
+   Ask for a number, then print it doubled and tripled.
+
+10. **Simple Swap**
+    Input two numbers, then swap them (print swapped values).
+
+---
+
+## 🟡 Hard (6 tasks, ~30%)
+
+11. **Unit Converter**
+    Ask the user for kilometers, convert to miles (`1 km = 0.621371 miles`).
+
+12. **Grade Percentage**
+    Ask for marks obtained and total marks, calculate percentage.
+
+13. **Simple Calculator**
+    Ask the user for two numbers and perform **all 4 operations** (add, subtract, multiply, divide).
+
+14. **Compound Interest (Basic)**
+    Ask for principal, rate, and time. Compute final amount with simple formula:
+    `A = P * (1 + r/100)^t`
+
+15. **BMI Calculator**
+    Ask for weight (kg) and height (m), then compute BMI = weight / (height²).
+
+16. **Currency Exchange**
+    Input USD, convert to EUR and JPY (pick some fixed rates).
+
+---
+
+## 🔴 Extreme (4 tasks, ~20%)
+
+17. **Days to Years/Months/Days**
+    Ask for a number of days, convert to years, months, and days (assume 1 year = 365, 1 month = 30).
+
+18. **Reverse Digits**
+    Input a 3-digit number, output its digits in reverse order.
+
+19. **Quadratic Equation Solver (Basic)**
+    Ask for coefficients a, b, c, compute discriminant `d = b² - 4ac`. Print roots if d ≥ 0.
+
+20. **Leap Year Checker**
+    Ask for a year, check if it’s a leap year (divisible by 4, not divisible by 100 unless divisible by 400).
+
+---
+
+## 🎯 Mini Project (Mixing All Skills)
+
+**Simple Budget Tracker**
+
+* Ask the user for their monthly income.
+* Ask how much they spend in different categories (food, transport, rent, entertainment, savings).
+* Output:
+
+  * Total expenses
+  * Remaining balance
+  * Percentage of income spent vs saved
+
+Extra (if you’re comfortable): Print a warning if expenses > income.
+
+---
+
+Would you like me to also **provide solutions** (example C++ code) for each exercise so you can compare your attempts, or do you prefer to try first and only check tricky ones later?
