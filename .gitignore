@@ -1,0 +1,16 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore debug and log files
+*.log
+
+# Ignore Code::Blocks build folders
+bin/
+obj/
+
+# Ignore temporary files (like from editors)
+*.swp
+*.tmp
