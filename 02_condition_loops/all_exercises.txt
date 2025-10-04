@@ -1,0 +1,78 @@
+Got it ✅ since you’ve **already done 20 exercises on input/output & variables**, let’s build a **new set of 20 exercises** for **Week 1** that avoids repetition. These will focus more on **conditions, loops, and problem solving**, but still touch I/O lightly so you practice in context.
+
+---
+
+# 📝 20 Week-1 Exercises (Non-Repetitive)
+
+### 🔹 Conditions (7 exercises)
+
+1. **Absolute Value** → Input a number, print its absolute value (without using `abs()`).
+2. **Max of Three Numbers** → Input three numbers, print the largest.
+3. **Pass or Fail** → Input score; if ≥ 50 print "Pass", else "Fail".
+4. **Character Type Checker** → Input a character, check if it’s a digit, uppercase letter, lowercase letter, or symbol.
+5. **Triangle Validity** → Input three sides, check if they can form a triangle.
+6. **Evenly Divisible** → Input two numbers, check if the first divides evenly by the second.
+7. **Discount Calculator** → Input price and discount rate, apply discount if rate > 0.
+
+---
+
+### 🔹 Loops (9 exercises)
+
+8. **Sum of Odd Numbers up to N** → Input `N`, print sum of odd numbers up to `N`.
+9. **Power of a Number** → Input base and exponent, compute power with a loop (don’t use `pow()`).
+10. **Digit Counter** → Input number, count how many digits it has.
+11. **Palindrome Number Checker** → Input number, check if it reads the same backward (e.g., 121).
+12. **LCM (Lowest Common Multiple)** → Input two numbers, find their LCM using loops.
+13. **Square Pattern** → Input `N`, print an `N x N` square of `*`.
+14. **Right Triangle Pattern** → Input `N`, print a right-angled triangle of `*`.
+15. **Multiplication Tables (1–10)** → Print full multiplication tables for numbers 1–10.
+16. **Collatz Sequence** → Input number, apply Collatz steps until it reaches 1.
+
+---
+
+### 🔹 Combined Logic (4 exercises)
+
+17. **Fibonacci Sequence** → Print first `N` Fibonacci numbers.
+18. **Armstrong Number Checker** → Input number, check if it’s Armstrong (e.g., 153 → 1³+5³+3³=153).
+19. **GCD (Greatest Common Divisor)** → Input two numbers, compute GCD using a loop.
+20. **Basic ATM Simulator** → Input balance; allow user to withdraw money until balance is too low.
+
+---
+
+# 🎯 Mini Project for Week 1
+
+**Student Grading Program**
+
+🔹 Requirements:
+
+* Ask user for number of students.
+* For each student, input name and marks.
+* Calculate grade:
+
+  * `90–100 → A`
+  * `75–89 → B`
+  * `50–74 → C`
+  * `< 50 → F`
+* Print report like:
+
+  ```
+  John - 85 - Grade B
+  Alice - 92 - Grade A
+  ...
+  ```
+* Bonus: Find and print the **highest** and **lowest** score.
+
+👉 Concepts used:
+
+* Variables
+* Loops
+* Conditions
+* Nested logic
+
+---
+
+✅ With this set, you’ll cover the **rest of Week 1 (conditions + loops)** without repeating the exercises you’ve already done.
+
+---
+
+👉 Do you want me to also create a **day-by-day schedule** (like which exercises to do each day in Week 1, including the mini project on the last day)?

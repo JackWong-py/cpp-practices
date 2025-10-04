@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759393331 source:c:\users\jacku\cpp_practices\jumping_into_cpp\exercise11_palindrome_checker\main.cpp
+	<iostream>
+	<cmath>
+
