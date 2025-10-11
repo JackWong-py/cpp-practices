@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759930596 source:c:\users\jacku\cpp-practices\03_function\chp9_rock_scissors_paper\main.cpp
+	<iostream>
+	<random>
+

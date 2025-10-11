@@ -23,3 +23,9 @@
 
 \# Week 2
 
+
+
+\## 2025-10-11
+
+* Finished exercise on "Function" and "Random".
+* Learned until chapter 10: Arrays.
