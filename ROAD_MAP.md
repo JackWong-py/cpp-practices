@@ -27,7 +27,7 @@
 
 **Goal:** Learn arrays, strings, and more structured data.
 
-* Chapters 11–15
+* Chapters 10–18
 
   * Arrays (1D, basic operations)
   * Multidimensional arrays (intro)
@@ -38,7 +38,7 @@
 
 **Goal:** Understand classes, objects, and abstraction.
 
-* Chapters 16–21
+* Chapters 19–25
 
   * Intro to classes & objects
   * Constructors, destructors
@@ -50,7 +50,7 @@
 
 **Goal:** Wrap up the book, apply knowledge in a project.
 
-* Chapters 22–27
+* Chapters 25-32
 
   * Dynamic memory & pointers
   * Linked lists

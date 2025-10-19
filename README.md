@@ -34,9 +34,9 @@ I’m following the book \*\*Jumping into C++\*\* and practicing additional exer
 
 ```
 
-cpp-exercises/
+cpp-practices/
 
-├── basics/
+├── 01_basics/
 
 │   ├── ex01\_hello\_world.cpp
 
@@ -46,11 +46,21 @@ cpp-exercises/
 
 │   └── ...
 
-├── intermediate/
+├── 02_condition_loops/
 
-│   └── (coming soon)
+│   └── ...
+
+├── 03_function/
+
+├── 04_data_handling/
+
+└── .gitignore
 
 └── README.md
+
+└── PROGRESS.md
+
+└── ROADMAP.md
 
 ```
 

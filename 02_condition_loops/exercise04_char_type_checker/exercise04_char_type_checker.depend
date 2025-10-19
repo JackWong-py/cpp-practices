@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1759221884 source:c:\users\jacku\cpp_practices\cpp-practices\02_condition_loops\exercise04_char_type_checker\main.cpp
-	<iostream>
-	<cctype>
-

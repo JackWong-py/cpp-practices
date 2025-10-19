@@ -1,16 +1,14 @@
-# Ignore compiled binaries
+# Build files
 *.exe
-*.out
 *.o
 *.obj
+*.out
 
-# Ignore debug and log files
-*.log
+# IDE/project files
+*.cbp
+*.layout
+*.depend
 
-# Ignore Code::Blocks build folders
-bin/
-obj/
-
-# Ignore temporary files (like from editors)
-*.swp
-*.tmp
+# System files
+.DS_Store
+Thumbs.db
