@@ -1,8 +1,4 @@
-Got it ✅ since you’ve **already done 20 exercises on input/output & variables**, let’s build a **new set of 20 exercises** for **Week 1** that avoids repetition. These will focus more on **conditions, loops, and problem solving**, but still touch I/O lightly so you practice in context.
-
----
-
-# 📝 20 Week-1 Exercises (Non-Repetitive)
+# 📝 20 Condition-loops Exercises
 
 ### 🔹 Conditions (7 exercises)
 
@@ -72,7 +68,3 @@ Got it ✅ since you’ve **already done 20 exercises on input/output & variable
 ---
 
 ✅ With this set, you’ll cover the **rest of Week 1 (conditions + loops)** without repeating the exercises you’ve already done.
-
----
-
-👉 Do you want me to also create a **day-by-day schedule** (like which exercises to do each day in Week 1, including the mini project on the last day)?

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1759913915 source:c:\users\jacku\cpp-practices\03_function\chp9_random_dice\main.cpp
-	<iostream>
-	<cstdlib>
-	<ctime>
-

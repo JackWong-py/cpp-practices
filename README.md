@@ -1,4 +1,4 @@
-\# C++ Learning Journey
+# C++ Learning Journey
 
 
 
@@ -12,15 +12,15 @@ I’m following the book \*\*Jumping into C++\*\* and practicing additional exer
 
 
 
-\## 🚀 Why this repo?
+## 🚀 Why this repo?
 
 
 
-\* To track my progress step by step
+* To track my progress step by step
 
-\* To build a habit of coding consistently
+* To build a habit of coding consistently
 
-\* To keep a portfolio I can look back on as I improve
+* To keep a portfolio I can look back on as I improve
 
 
 
@@ -28,15 +28,15 @@ I’m following the book \*\*Jumping into C++\*\* and practicing additional exer
 
 
 
-\## 📂 Repository Structure
+## 📂 Repository Structure
 
 
 
 ```
 
-cpp-exercises/
+cpp-practices/
 
-├── basics/
+├── 01_basics/
 
 │   ├── ex01\_hello\_world.cpp
 
@@ -46,11 +46,21 @@ cpp-exercises/
 
 │   └── ...
 
-├── intermediate/
+├── 02_condition_loops/
 
-│   └── (coming soon)
+│   └── ...
+
+├── 03_function/
+
+├── 04_data_handling/
+
+└── .gitignore
 
 └── README.md
+
+└── PROGRESS.md
+
+└── ROADMAP.md
 
 ```
 
@@ -60,7 +70,7 @@ cpp-exercises/
 
 
 
-\## 🛠️ How to Run
+## 🛠️ How to Run
 
 
 
@@ -86,7 +96,7 @@ Replace the file name with the exercise you want to run.
 
 
 
-\## ✨ Notes
+## ✨ Notes
 
 
 
