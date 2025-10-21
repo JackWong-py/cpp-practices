@@ -29,3 +29,15 @@
 
 * Finished exercise on "Function" and "Random".
 * Learned until chapter 10: Arrays.
+
+
+
+\# Week 3
+
+
+
+\## 2025-10-19
+
+* Finished exercise on "Data Handling".
+* Still not that familiar with "Binary tree"
+* Might make some exercise for more familiar with it.
