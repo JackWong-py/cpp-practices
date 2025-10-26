@@ -27,12 +27,14 @@
 
 **Goal:** Learn arrays, strings, and more structured data.
 
-* Chapters 10–18
+* Chapters 10–17
 
   * Arrays (1D, basic operations)
   * Multidimensional arrays (intro)
-  * Strings in depth
-  * File input/output (basic read/write)
+  * Linked List
+  * Recursion 
+  * Binary Tree
+
 
 ### 🔹 Week 4: Object-Oriented Programming (OOP)
 
