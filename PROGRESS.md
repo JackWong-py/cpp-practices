@@ -41,3 +41,14 @@
 * Finished exercise on "Data Handling".
 * Still not that familiar with "Binary tree"
 * Might make some exercise for more familiar with it.
+
+
+
+\# Week 4
+
+
+
+\## 2025-10-27
+
+* Finished exercise until class.
+* Haven't yet start the exercise of lifecycle of class.
