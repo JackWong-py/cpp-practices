@@ -1,0 +1,4 @@
+Hello! Please read this file.
+----------------------------
+I am currently learning how to use C++ to manage file.
+This is almost the end chapter.

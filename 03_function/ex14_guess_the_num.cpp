@@ -43,5 +43,5 @@ int main()
     cout << "Congratulation! The random number is " << answer << "!\n";
     cout << "You use " << attempt << " attempt.\nBest luck next time.";
 
-    return 0;
+    return 1;
 }
